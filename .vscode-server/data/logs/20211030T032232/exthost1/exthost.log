@@ -1,0 +1,28 @@
+[2021-10-30 03:22:34.396] [exthost] [info] extension host started
+[2021-10-30 03:22:34.418] [exthost] [info] Lock '/home/silonimo/.vscode-server/data/User/workspaceStorage/9e818317232f6390662304702c0a9713/vscode.lock': Lock acquired.
+[2021-10-30 03:22:34.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-30 03:22:34.924] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/debug-auto-launch/dist/extension
+[2021-10-30 03:22:34.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-30 03:22:34.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/git/dist/main
+[2021-10-30 03:22:35.073] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2021-10-30 03:22:35.074] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/extensions/christian-kohler.path-intellisense-2.4.1/out/extension.js
+[2021-10-30 03:22:35.093] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-10-30 03:22:35.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js
+[2021-10-30 03:22:35.109] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-10-30 03:22:35.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-10-30 03:22:36.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-30 03:22:36.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/github/dist/extension.js
+[2021-10-30 03:22:36.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-30 03:22:36.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-30 03:22:36.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-30 03:22:36.650] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-30 03:22:36.666] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-30 03:22:36.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-10-30 03:22:37.497] [exthost] [info] eager extensions activated
+[2021-10-30 03:22:37.502] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-30 03:22:37.503] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-30 03:22:38.104] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-10-30 03:22:38.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/silonimo/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-10-30 03:25:43.844] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-10-30 03:25:43.845] [exthost] [info] Lock '/home/silonimo/.vscode-server/data/User/workspaceStorage/9e818317232f6390662304702c0a9713/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-10-30 03:25:44.920] [exthost] [info] exiting with code 0
