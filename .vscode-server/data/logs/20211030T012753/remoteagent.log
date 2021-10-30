@@ -1,0 +1,27 @@
+[2021-10-30 01:27:53.674] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-10-30 01:27:53.674] [remoteagent] [info] Extension host agent started.
+[2021-10-30 01:27:53.995] [remoteagent] [info] [::ffff:172.27.48.1][fe52c01c][ManagementConnection] New connection established.
+[2021-10-30 01:27:54.008] [remoteagent] [info] [::ffff:172.27.48.1][412b8462][ExtensionHostConnection] New connection established.
+[2021-10-30 01:27:54.025] [remoteagent] [info] [::ffff:172.27.48.1][412b8462][ExtensionHostConnection] <427> Launched Extension Host Process.
+[2021-10-30 01:28:20.876] [remoteagent] [info] [::ffff:172.27.48.1][412b8462][ExtensionHostConnection] <427> [0mGET /favicon.ico [33m404 [0m4.086 ms - 150[0m
+
+[2021-10-30 02:11:03.272] [remoteagent] [info] [::ffff:172.27.48.1][da891881][ManagementConnection] New connection established.
+[2021-10-30 02:11:03.273] [remoteagent] [info] [::ffff:172.27.48.1][32f0a033][ExtensionHostConnection] New connection established.
+[2021-10-30 02:11:03.282] [remoteagent] [info] [::ffff:172.27.48.1][32f0a033][ExtensionHostConnection] <20970> Launched Extension Host Process.
+[2021-10-30 02:11:09.819] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/mnt/c/Users/USUARIO/AppData/Local/Datos de programa" points to "/mnt/c/Users/USUARIO/AppData/Local"
+[2021-10-30 02:11:38.304] [remoteagent] [warning] [File Watcher (chokidar)] Error: EIO: i/o error, stat '/mnt/c/Users/USUARIO/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-10-30 02:12:01.410] [remoteagent] [warning] [File Watcher (chokidar)] Error: EIO: i/o error, stat '/mnt/c/Users/USUARIO/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-10-30 02:12:16.266] [remoteagent] [info] [::ffff:172.27.48.1][da891881][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-10-30 02:12:17.331] [remoteagent] [info] [::ffff:172.27.48.1][32f0a033][ExtensionHostConnection] <20970> Extension Host Process exited with code: 0, signal: null.
+[2021-10-30 02:12:28.604] [remoteagent] [info] [::ffff:172.27.48.1][fe52c01c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-10-30 02:12:29.743] [remoteagent] [info] [::ffff:172.27.48.1][412b8462][ExtensionHostConnection] <427> Extension Host Process exited with code: 0, signal: null.
+[2021-10-30 02:12:29.743] [remoteagent] [info] Last EH closed, waiting before shutting down
